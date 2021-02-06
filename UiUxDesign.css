@@ -1,0 +1,215 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/KUET_RakibUlHasan_Single_8801930388849_02.jpeg");
+  background-position: 50% 69.4%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 816px;
+}
+
+.u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
+  margin: 20px 376px 0 0;
+}
+
+.u-section-1 .u-line-1 {
+  width: 984px;
+  transform-origin: right center 0px;
+  animation-duration: 1000ms;
+  margin: 6px 0 0 auto;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 40px;
+  margin-bottom: 60px;
+  margin-left: 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 629px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 378px;
+  width: 429px;
+  background-image: none;
+  animation-duration: 1000ms;
+  margin: 41px -46px 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 449px;
+  height: 346px;
+  object-position: 0% 100%;
+  animation-duration: 1000ms;
+  margin: -406px auto 0 46px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 629px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+.u-section-1 .u-text-3 {
+  animation-duration: 1000ms;
+  margin: 24px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  color: rgba(0, 0, 0, 0);
+  font-weight: 700;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 0.875rem;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  animation-duration: 1000ms;
+  margin: 17px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 507px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 176px;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 786px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 60px;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 605px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 339px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 415px;
+    height: 321px;
+    margin-top: -367px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 519px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 404px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 564px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 755px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 268px;
+    width: 313px;
+    margin-top: 30px;
+    margin-right: -44px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 313px;
+    height: 242px;
+    margin-top: -285px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1186px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 24px;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 385px;
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 376px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 44px;
+    margin-right: auto;
+    margin-left: 60px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -299px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 508px;
+  }
+
+  .u-section-1 .u-line-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 299px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 242px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -273px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 692px;
+  }
+}
